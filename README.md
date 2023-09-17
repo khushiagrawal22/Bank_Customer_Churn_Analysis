@@ -23,3 +23,9 @@ Welcome to the Bank Customer Churn Analysis project! This repository contains a 
 
 
 <img width="669" alt="Customer_Churn_Analysis" src="https://github.com/khushiagrawal22/Bank_Customer_Churn_Analysis/assets/131536733/8478359e-8c07-4f3d-95d4-0f5a4642b4b5">
+<img width="670" alt="Page 2" src="https://github.com/khushiagrawal22/Bank_Customer_Churn_Analysis/assets/131536733/f893685d-b346-449c-af0f-2a2f582b0426">
+
+
+
+
+
